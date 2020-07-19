@@ -51,6 +51,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
 
     * Cada palavra deve aparecer dentro de uma tag `span`.
     * As tags `span` devem ser adicionadas como filha do parágrafo que possui o id `carta-gerada`.
+    * Cada vez que o botão "criar carta" for clicado o conteúdo do parágrafo deve ser substituído pelo valor digitado no input. 
 
 ### 4 - Ao criar uma carta através do botão `id="criar-carta"`, o `input` com `id="carta-texto"` deve permanecer com o texto digitado.
 
