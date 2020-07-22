@@ -56,7 +56,9 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
 
 ### 4 - Ao criar uma carta através do botão `id="criar-carta"`, o `input` com `id="carta-texto"` deve permanecer com o texto digitado.
 
-### 5 - Crie a classe `newspaper`.
+### 5- Se o usuário não preencher o campo ou preencher com apenas espaços vazios adicionar a mensagem 'Por favor, digite o conteúdo da carta.'
+
+### 6 - Crie a classe `newspaper`.
 
   Pontos importantes:
 
@@ -65,7 +67,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
       - `font-family` com o valor `Times New Roman`
       - `font-weight` com o valor `bold`
 
-### 6 - Crie a classe `magazine1`.
+### 7 - Crie a classe `magazine1`.
 
   Pontos importantes:
 
@@ -76,7 +78,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
       - `font-weight` com o valor `900`
       - `text-transform` com o valor `uppercase`
 
-### 7 - Crie a classe `magazine2`.
+### 8 - Crie a classe `magazine2`.
 
   Pontos importantes:
 
@@ -86,7 +88,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
       - `font-family` com o valor `Verdana`
       - `font-weight` com o valor `900`
 
-### 8 - Crie a classe `medium`.
+### 9 - Crie a classe `medium`.
 
   Pontos importantes:
 
@@ -94,7 +96,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
       - `font-size` com o valor `20px`
       - `padding` com o valor `8px`
 
-### 9 - Crie a classe `big`.
+### 10 - Crie a classe `big`.
 
   Pontos importantes:
 
@@ -102,7 +104,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
       - `font-size` com o valor `30px`
       - `padding` com o valor `10px`
 
-### 10 - Crie a classe `reallybig`.
+### 11 - Crie a classe `reallybig`.
 
   Pontos importantes:
 
@@ -110,35 +112,35 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
       - `font-size` com o valor `40px`
       - `padding` com o valor `15px`
 
-### 11 - Crie a classe `rotateleft`.
+### 12 - Crie a classe `rotateleft`.
 
   Pontos importantes:
 
     * Defina as propriedades:
       - `transform` com o valor `rotate(-5deg)`
 
-### 12 - Crie a classe `rotateright`.
+### 13 - Crie a classe `rotateright`.
 
   Pontos importantes:
 
     * Defina as propriedades:
       - `transform` com o valor `rotate(5deg)`
 
-### 13 - Crie a classe `skewleft`.
+### 14 - Crie a classe `skewleft`.
 
   Pontos importantes:
 
     * Defina as propriedades:
       - `transform` com o valor `skewX(10deg)`;
 
-### 14 - Crie a classe `skewright`.
+### 15 - Crie a classe `skewright`.
 
   Pontos importantes:
 
     * Defina as propriedades:
       - `transform` com o valor `skewX(-10deg)`;
 
-### 15 - Adicione as classes de forma aleatória a fim de estilizar as palavras.
+### 16 - Adicione as classes de forma aleatória a fim de estilizar as palavras.
 
   Pontos importantes:
 
