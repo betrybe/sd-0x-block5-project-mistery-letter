@@ -49,6 +49,7 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
 
   Pontos importantes:
 
+    * Se o usuário não preencher o campo adicionar a mensagem 'Por favor, digite o conteúdo da carta.'.
     * Cada palavra deve aparecer dentro de uma tag `span`.
     * As tags `span` devem ser adicionadas como filha do parágrafo que possui o id `carta-gerada`.
     * Cada vez que o botão "criar carta" for clicado o conteúdo do parágrafo deve ser substituído pelo valor digitado no input. 
@@ -160,12 +161,14 @@ Esta é uma oportunidade de você exercitar sua criatividade e experimentar os c
 
     * Ao clicar em uma palavra, um novo estilo **aleatório** deve ser aplicado.
     * O número de mudanças deve ser ilimitado;
+    * A lista das novas classes não pode ser exatamente igual a lista das classes anteriores da palavra que foi clicada. 
 
 ### 2 - Deve haver um parágrafo com o `id="carta-contador"` onde existirá um contador de palavras.
 
   Pontos importantes:
 
     * Esse contador deve informar a quantidade de palavras presentes na carta misteriosa gerada.
+    * O parágrafo com o id carta contado deve receber *apenas* números.
 
 ---
 
