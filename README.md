@@ -231,14 +231,14 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 ## Requisitos Bônus:
 
-### 1 - Com uma carta misteriosa gerada, adicione a possibilidade de alterar o estilo de uma palavra específica ao clicar nela.
+### 17 - Com uma carta misteriosa gerada, adicione a possibilidade de alterar o estilo de uma palavra específica ao clicar nela.
 
   Pontos importantes:
 
     * Ao clicar em uma palavra, um novo estilo **aleatório** deve ser aplicado.
     * O número de mudanças deve ser ilimitado;
 
-### 2 - Deve haver um parágrafo com o `id="carta-contador"` onde existirá um contador de palavras.
+### 18 - Deve haver um parágrafo com o `id="carta-contador"` onde existirá um contador de palavras.
 
   Pontos importantes:
 
